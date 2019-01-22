@@ -1,0 +1,15 @@
+.main {
+    width: 300px;
+    min-width: 350px;
+    margin: 100px auto;
+}
+
+.list {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.list li{
+    font-size: 18px;
+    padding: 2px 0;
+}
